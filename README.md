@@ -1,10 +1,10 @@
-# Datacenter Energy Optimization AI
+# datacenter-energy-optimization-ai
 
-Optimize datacenter power usage while preserving performance targets.
+## Detailed Description
 
 ## Vertical
 
-infrastructure
+## Problem Statement
 
 ## Production MVP Deliverables
 
